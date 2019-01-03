@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Jane Cheng</title>
+	<link rel="stylesheet" type="text/css" href="CSS/mywork.css">
+</head>
+<body>
+	<div class="wrap">
+		<div class="bar">
+    		<ul>
+        		<li class="facebook">
+            		<a href="https://www.facebook.com/freedomdasein">
+                	<img src="http://icons.iconarchive.com/icons/uiconstock/socialmedia/16/Facebook-icon.png" alt="fb">
+              		<span>個人臉書</span>
+            		</a>
+       			</li>
+		</div>
+		<div class="header">
+			<div class="header_pic">
+				<img src="image/Jane2.jpg" width="800" >
+			</div>
+			<ul class="menu">
+				<li><a href="mywork.html">About Myself</a></li>
+				<li><a href="education_experience.html">Education & Experience</a></li>
+				<li><a href="Skills.html">Skills</a></li>
+				<li><a href="contact_information.html">Contact Information</a></li>
+			</ul>
+		</div>
+
+		<div class="content">
+			<div class="content_left">
+				<img src="image/Jane3.jpg" width="400" >
+			</div>
+			<div class="content_right">
+				<p class="emp">hi 我是 Jane 可以叫我珍：）</p>
+				<br>
+				<br>
+				<p>我是一位溫暖、樂觀、樂於服務他人、喜歡探索及挑戰多元新事物的女孩。我喜歡去嘗試許多未碰觸過的事物，我也相信，嘗試多元的生活型態，更有助於發展開拓的胸襟，平穩地解決不同面向的難題。</p>
+				<br>
+				<br>
+				<p class="emp">THis is my Bio. Hope you like it!</p>
+
+			<div class="clearfloat"></div>
+
+			</div>
+		</div>
+
+		<div class="footer">
+			<ul>
+				<li><span>Email</span>  freedomerest@gmail.com</li>
+				<li><span>Mobile</span>  0965177020</li>
+				<li><span>Address</span>  台北市文山區秀明路一段103巷1弄3號</li>
+			</ul>
+		</div>
+
+	</div>
+	
+</body>
+</html>
